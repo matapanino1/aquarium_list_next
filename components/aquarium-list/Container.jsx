@@ -1,6 +1,6 @@
 import React from "react";
 import Location from "./Location";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 const Container = () => {
 
