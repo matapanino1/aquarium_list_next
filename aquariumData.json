@@ -1,0 +1,460 @@
+{
+  "東京": {
+    "葛西臨海水族園": {
+      "url": "https://www.tokyo-zoo.net/zoo/kasai/"
+    },
+    "サンシャイン水族館": {
+      "url": "https://sunshinecity.jp/aquarium/"
+    },
+    "すみだ水族館": {
+      "url": "https://www.sumida-aquarium.com/index.html"
+    },
+    "マクセル アクアパーク品川": {
+      "url": "http://www.aqua-park.jp/en/aqua/index.html"
+    },
+    "しながわ水族館": {
+      "url": "https://www.aquarium.gr.jp/"
+    },
+    "井の頭自然文化園 水生物館": {
+      "url": "https://www.tokyo-zoo.net/zoo/ino/"
+    },
+    "上野動物園 両生爬虫類館": {
+      "url": "https://www.tokyo-zoo.net/zoo/ueno/"
+    },
+    "足立区生物園": {
+      "url": "https://seibutuen.jp/"
+    },
+    "グリーンドームねったいかん 板橋区立熱帯環境植物園": {
+      "url": "https://www.seibu-la.co.jp/nettaikan/"
+    }
+  },
+  "神奈川": {
+    "新江ノ島水族館": {
+      "url": "https://www.enosui.com/"
+    },
+    "横浜・八景島シーパラダイス": {
+      "url": "http://www.seaparadise.co.jp/en/"
+    },
+    "よこはま動物園ズーラシア": {
+      "url": "https://www.hama-midorinokyokai.or.jp/zoo/zoorasia/"
+    },
+    "箱根園水族館": {
+      "url": "https://www.princehotels.co.jp/amuse/hakone-en/suizokukan/"
+    },
+    "相模川ふれあい科学館 アクアリウムさがみはら": {
+      "url": "https://sagamigawa-fureai.com/"
+    }
+  },
+  "千葉": {
+    "鴨川シーワールド": {
+      "url": "https://www.kamogawa-seaworld.jp/"
+    }
+  },
+  "埼玉": {
+    "さいたま水族館": {
+      "url": "https://www.parks.or.jp/suizokukan/"
+    }
+  },
+  "茨城": {
+    "アクアワールド茨城県大洗水族館": {
+      "url": "https://aqua-world.jp/"
+    },
+    "かすみがうら市水族館": {
+      "url": "http://www.dane-kerry.com/aquarium/"
+    },
+    "山方淡水魚館": {
+      "url": "https://hitachiomiya-sinkouzaidan.opal.ne.jp/tansui/"
+    }
+  },
+  "栃木": {
+    "栃木県 なかがわ水遊園": {
+      "url": "https://tnap.jp/"
+    }
+  },
+  "群馬": {
+    "水紀行館 水産学習館": {
+      "url": "https://mizunofurusato.com/"
+    }
+  },
+  "北海道": {
+    "北の大地の水族館 山の水族館": {
+      "url": "https://onneyu-aq.com/"
+    },
+    "おたる水族館": {
+      "url": "https://otaru-aq.jp/"
+    },
+    "豊平川さけ科学館": {
+      "url": "https://salmon-museum.jp/"
+    },
+    "サンピアザ水族館": {
+      "url": "http://www.sunpiazza-aquarium.com/"
+    },
+    "丸山動物園": {
+      "url": "https://www.city.sapporo.jp/zoo/"
+    },
+    "旭山動物園": {
+      "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/"
+    },
+    "登別マリンパークニクス": {
+      "url": "https://www.nixe.co.jp/"
+    },
+    "標津サーモン科学館": {
+      "url": "http://s-salmon.com/"
+    },
+    "サケのふるさと 千歳水族館": {
+      "url": "https://chitose-aq.jp/"
+    },
+    "美深チョウザメ館": {
+      "url": "http://www.town.bifuka.hokkaido.jp/cms/section/soumu/qlmcaj000000559v.html"
+    },
+    "くしろ水族館ぷくぷく": {
+      "url": "https://www.sennosuke.net/pukupuku/"
+    },
+    "ノシャップ寒流水族館": {
+      "url": "https://www.city.wakkanai.hokkaido.jp/suizokukan/"
+    },
+    "市立室蘭水族館": {
+      "url": "http://iburi.net/murosui/index.html"
+    },
+    "氷海展望塔オホーツクタワー/とっかりセンター": {
+      "url": "https://o-tower.co.jp/okhotsktower.html"
+    }
+  },
+  "青森": {
+    "浅虫水族館": {
+      "url": "https://asamushi-aqua.com/"
+    },
+    "八戸市水産科学館 マリエント": {
+      "url": "http://www.marient.org/"
+    }
+  },
+  "岩手": {
+    "もぐらんぴあ水族館": {
+      "url": "https://www.moguranpia.com/"
+    }
+  },
+  "秋田": {
+    "男鹿水族館GAO": {
+      "url": "https://www.gao-aqua.jp/"
+    }
+  },
+  "宮城": {
+    "仙台うみの社水族館": {
+      "url": "http://www.uminomori.jp/umino/index.html"
+    },
+    "アクアテラス錦ヶ丘": {
+      "url": "https://aquaterrace.co.jp/"
+    }
+  },
+  "山形": {
+    "鶴岡市立加茂水族館": {
+      "url": "https://kamo-kurage.jp/"
+    }
+  },
+  "福島": {
+    "アクアマリンふくしま": {
+      "url": "https://www.aquamarine.or.jp/"
+    },
+    "アクアマリン いなわしろカワセミ水族館": {
+      "url": "https://www.aquamarine.or.jp/kawasemi/"
+    }
+  },
+  "新潟": {
+    "新潟市水族館 マリンピア日本海": {
+      "url": "https://www.marinepia.or.jp/"
+    },
+    "上越市立 水族博物館": {
+      "url": "http://www.umigatari.jp/joetsu/index.html"
+    },
+    "イヨボヤ会館": {
+      "url": "https://www.iyoboya.jp/"
+    },
+    "尖閣湾揚島遊園": {
+      "url": "https://sado-ageshima.com/"
+    },
+    "長岡市 寺泊水族博物館": {
+      "url": "https://aquarium-teradomari.jp/"
+    }
+  },
+  "山梨": {
+    "森の中の水族館。山梨県立富士湧水の里水族館": {
+      "url": "http://www.morinonakano-suizokukan.com/"
+    }
+  },
+  "長野": {
+    "国営アルプスあづみの公園": {
+      "url": "http://www.azumino-koen.jp/"
+    },
+    "蓼科アミューズメント水族館": {
+      "url": "https://www.tateshina-aquarium.jp/"
+    }
+  },
+  "富山": {
+    "魚津水族館": {
+      "url": "https://www.uozu-aquarium.jp/"
+    }
+  },
+  "石川": {
+    "のとじま水族館": {
+      "url": "https://www.notoaqua.jp/"
+    }
+  },
+  "福井": {
+    "越前松島水族館": {
+      "url": "http://www.awara.jp/seiryu/suizokukanE.html"
+    },
+    "福井県海浜自然センター": {
+      "url": "https://fcnc.pref.fukui.lg.jp/"
+    }
+  },
+  "愛知": {
+    "名古屋港水族館": {
+      "url": "https://nagoyaaqua.jp/"
+    },
+    "名古屋市 東山動植物園": {
+      "url": "https://www.higashiyama.city.nagoya.jp/"
+    },
+    "赤塚山公園ぎょぎょランド": {
+      "url": "http://www.akatsukayama.jp/index.html"
+    },
+    "南知多ビーチランド": {
+      "url": "https://beachland.jp/"
+    },
+    "竹島水族館": {
+      "url": "https://www.city.gamagori.lg.jp/site/takesui/"
+    },
+    "のんほいパーク 豊橋総合動植物園": {
+      "url": "https://www.nonhoi.jp/"
+    },
+    "シーライフ名古屋": {
+      "url": "https://www.legoland.jp/resort-guide/sealife-nagoya/"
+    },
+    "碧南海浜水族館": {
+      "url": "https://www.city.hekinan.lg.jp/aquarium/index.html"
+    }
+  },
+  "静岡": {
+    "沼津港深海水族館": {
+      "url": "http://www.numazu-deepsea.com/"
+    },
+    "下田海中水族館": {
+      "url": "https://shimoda-aquarium.com/"
+    },
+    "あわしまマリンパーク": {
+      "url": "http://www.marinepark.jp/"
+    },
+    "伊豆・三津シーパラダイス": {
+      "url": "https://www.mitosea.com/"
+    },
+    "熱川バナナワニ園": {
+      "url": "http://bananawani.jp/"
+    },
+    "時之栖 水中楽園 AQUARIUM": {
+      "url": "https://www.tokinosumika.com/eventinfo/details.php?log=1427705462"
+    },
+    "東海大学海洋科学博物館": {
+      "url": "https://www.umi.muse-tokai.jp/"
+    },
+    "浜名湖体験学習施設ウォット": {
+      "url": "https://ulotto.entetsuassist-dms.com/"
+    }
+  },
+  "岐阜": {
+    "世界淡水魚間 アクア・トトぎふ": {
+      "url": "https://aquatotto.com/"
+    }
+  },
+  "三重": {
+    "伊勢シーパラダイス": {
+      "url": "https://ise-seaparadise.com/"
+    },
+    "鳥羽水族館": {
+      "url": "https://aquarium.co.jp/"
+    },
+    "日本サンショウウオセンター": {
+      "url": "https://www.akame48taki.com/"
+    }
+  },
+    "滋賀": {
+      "滋賀県立 琵琶湖博物館": {
+        "url": "https://www.biwahaku.jp/"
+      }
+    },
+    "京都": {
+      "丹後魚っ知館": {
+        "url": "https://www.kepco.co.jp/corporate/profile/community/pr/miyazu/"
+      },
+      "京都水族館": {
+        "url": "https://www.kyoto-aquarium.com/index.html"
+      }
+    },
+    "大阪": {
+      "海遊館": {
+        "url": "https://www.kaiyukan.com/"
+      },
+      "ニフレル": {
+        "url": "https://www.nifrel.jp/"
+      }
+    },
+    "兵庫": {
+      "神戸市立須磨海浜水族園": {
+        "url": "https://kobe-sumasui.jp/"
+      },
+      "城崎マリンワールド": {
+        "url": "https://marineworld.hiyoriyama.co.jp/"
+      },
+      "姫路市立水族館": {
+        "url": "https://www.city.himeji.lg.jp/aqua/"
+      }
+    },
+    "和歌山": {
+      "京都大学白浜水族館": {
+        "url": "https://www.seto.kyoto-u.ac.jp/aquarium/"
+      },
+      "アドベンチャーワールド": {
+        "url": "https://www.aws-s.com/"
+      },
+      "和歌山県立自然博物館": {
+        "url": "https://www.shizenhaku.wakayama-c.ed.jp/"
+      },
+      "串本海中公園 水族館": {
+        "url": "https://www.kushimoto.co.jp/"
+      },
+      "太地町立くじらの博物館": {
+        "url": "http://www.kujirakan.jp/"
+      },
+      "すさみ町立エビとカニの水族館": {
+        "url": "https://ebikani-aquarium.com/"
+      }
+    },
+    "香川": {
+      "新屋島水族館": {
+        "url": "https://r.goope.jp/new-yashima-aq"
+      }
+    },
+    "徳島": {
+      "日和佐うみがめ水族館カレッタ": {
+        "url": "https://caretta.town.minami.lg.jp/"
+      }
+    },
+    "愛媛": {
+      "虹の森公園おさかな館": {
+        "url": "https://morinokuni.or.jp/publics/index/27/"
+      }
+    },
+    "高知": {
+      "桂浜水族館": {
+        "url": "https://katurahama-aq.jp/"
+      },
+      "四万十川学遊館あきついお": {
+        "url": "http://gakuyukan.sakura.ne.jp/wp_sakura/previous/doc/tombo-gakuyukan.html"
+      },
+      "むろと廃校水族館": {
+        "url": "https://www.city.muroto.kochi.jp/pages/page0343.php"
+      },
+      "高知県立足摺海洋館": {
+        "url": "https://kaiyoukan.jp/"
+      }
+    },
+    "山口": {
+      "しものせき水族館 海響館": {
+        "url": "https://www.kaikyokan.com/"
+      },
+      "なぎさ水族館": {
+        "url": "https://nagisapark.jimdofree.com/%E3%81%AA%E3%81%8E%E3%81%95%E6%B0%B4%E6%97%8F%E9%A4%A8/"
+      }
+    },
+    "広島": {
+      "マリホ水族館": {
+        "url": "https://mariho-aquarium.com/"
+      },
+      "みやじマリン宮島水族館": {
+        "url": "https://www.miyajima-aqua.jp/"
+      },
+      "福山大学マリンバイオセンター水族館": {
+        "url": "https://www.fukuyama-u.ac.jp/marine-bio-center/"
+      }
+    },
+    "岡山": {
+      "笠岡市立カブトガニ博物館": {
+        "url": "https://www.city.kasaoka.okayama.jp/site/kabutogani/"
+      },
+      "渋川マリン水族館": {
+        "url": "https://www.city.tamano.lg.jp/site/kaihaku/"
+      }
+    },
+    "島根": {
+      "しまね海洋館 アクアス": {
+        "url": "https://aquas.or.jp/"
+      },
+      "島根県立宍道湖自然館ゴビウス": {
+        "url": "https://www.gobius.jp/"
+      }
+    },
+    "鳥取": {
+      "鳥取県とっとり賀露かにっこ館": {
+        "url": "https://kanikko.jp/"
+      }
+    },
+    "沖縄": {
+      "沖縄美ら海水族館": {
+        "url": "https://churaumi.okinawa/"
+      }
+    },
+    "福岡": {
+      "マリンワールド海の中道": {
+        "url": "https://marine-world.jp/"
+      },
+      "北九州水環境館": {
+        "url": "https://mizukankyokan.jp/"
+      }
+    },
+    "長崎": {
+      "長崎ペンギン水族館": {
+        "url": "https://penguin-aqua.jp/"
+      },
+      "九十九島水族館 海きらら": {
+        "url": "https://umikirara.jp/en"
+      },
+      "むつごろう水族館": {
+        "url": "http://www.kantakunosato.co.jp/"
+      }
+    },
+    "佐賀": {
+      "佐賀県宇宙科学館": {
+        "url": "https://www.yumeginga.jp/"
+      }
+    },
+    "大分": {
+      "大分マリーンパレス水族館海たまご": {
+        "url": "https://www.umitamago.jp/"
+      },
+      "道の駅やよい番匠おさかな館": {
+        "url": "https://www.michinoeki-yayoi.com/banjou-osakanakan"
+      }
+    },
+    "熊本": {
+      "わくわく海中水族館シードーナツ": {
+        "url": "https://amakusapearl.com/"
+      }
+    },
+    "宮崎": {
+      "出の山淡水魚水族館": {
+        "url": "https://idenoyama-aquarium.weebly.com/"
+      },
+      "すみえファミリー水族館": {
+        "url": "https://nobekan.jp/activity/play/%E3%81%99%E3%81%BF%E3%81%88%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E6%B0%B4%E6%97%8F%E9%A4%A8/"
+      },
+      "高千穂峡淡水魚水族館": {
+        "url": "https://www.town-takachiho.jp/top/kanko_bunka/kanko_supotto/810.html"
+      }
+    },
+    "鹿児島": {
+      "いおワールドかごしま水族館": {
+        "url": "https://ioworld.jp/"
+      },
+      "奄美海洋展示館": {
+        "url": "https://www.ohama.marutani-amami.com/ocean-exhibition-hall"
+      }
+    }
+  }

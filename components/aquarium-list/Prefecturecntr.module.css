@@ -1,0 +1,14 @@
+.prefecture {
+    animation: fadeIn 1.2s ease 0s 1 normal;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
+.prefectureItem {
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none; /* Safari */
+}
