@@ -336,7 +336,11 @@ const Prefecture = ({ prefecture }) => {
           "url": "https://ebikani-aquarium.com/"
         }
       ],
-      "香川": [
+    "香川": [
+      {
+        "name": "四国水族館",
+        "url": "https://shikoku-aquarium.jp/"
+      },
         {"name": "新屋島水族館",
           "url": "https://r.goope.jp/new-yashima-aq"
         }
