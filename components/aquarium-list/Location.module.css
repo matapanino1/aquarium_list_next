@@ -9,3 +9,11 @@
     user-select: none;
     -webkit-user-select: none; /* Safari */
 }
+
+@media screen and (max-width: 768px),print {
+    .regionItem {
+        padding: 15px;
+        width: 70%;
+        margin: 2rem auto;
+    }
+}

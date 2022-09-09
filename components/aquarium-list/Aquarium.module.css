@@ -13,3 +13,9 @@
     user-select: none;
     -webkit-user-select: none; /* Safari */
 }
+
+@media screen and (max-width: 768px),print {
+    .aquariumItem {
+        font-size: 1.3rem;
+    }
+}

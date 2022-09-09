@@ -12,3 +12,10 @@
     user-select: none;
     -webkit-user-select: none; /* Safari */
 }
+
+@media screen and (max-width: 768px),print {
+    .prefectureItem {
+        font-size: 1.5rem;
+        margin-bottom: 0;
+    }
+}
