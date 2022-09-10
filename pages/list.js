@@ -6,7 +6,7 @@ const List = () => {
   return (
       <>
           <Head>
-              <title>日本全国水族館リスト</title>
+              <title>Aquarium Info -水族館一覧</title>
               <meta name="description" content="日本全国にある水族館をリスト化しました。旅先で遊ぶ場所に迷った時の参考にどうぞ。" />
           </Head>
           <Container />

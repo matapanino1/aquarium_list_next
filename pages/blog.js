@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
+import Head from 'next/head';
 
 const Blog = () => {
   return (
-    <div>Blog</div>
+      <div>
+          <Head>
+              <title>Aquarium Info -ブログ</title>
+          </Head>
+    </div>
   )
 }
 
-export default Blog
+export default Blog;

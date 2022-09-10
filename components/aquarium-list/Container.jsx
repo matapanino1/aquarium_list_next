@@ -16,7 +16,7 @@ const Container = () => {
 
 	return (
 		<div className={classes.container}>
-			<h1>日本全国水族館リスト</h1>
+			<h1>日本全国水族館一覧</h1>
 		{japan.map((list, i) => (
 			<Location
 				key={i}

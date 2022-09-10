@@ -13,6 +13,7 @@
 .header nav{
     margin-left: auto;
     padding-right: 30px;
+    height: 100%;
 }
 
 .header ul {
@@ -51,9 +52,47 @@
 }
 
 @media screen and (max-width:768px) {
+    .header {
+        margin: 0 auto;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        height: 60px;
+        width: 100vw;
+        background-color: #24130d;
+        display: flex;
+        align-items: center;
+    }
+
     .header nav{
         margin: auto;
         display: flex;
         justify-content: center;
+    }
+
+    .header li+li {
+        border-left: 1px #fbfaf3 solid;
+    }
+
+    .header a {
+        display: inline-block;
+        align-items: center;
+        height: 100%;
+        text-decoration: none;
+        color: #fbfaf3;
+        opacity: 1;
+        font-size: .9rem;
+        transition: color .2s ease;
+    }
+    
+    .header a:hover {
+        display: inline-block;
+        align-items: center;
+        height: 100%;
+        text-decoration: none;
+        color: #fbfaf3;
+        opacity: .7;
+        font-size: .9rem;
+        transition: color .2s ease;
     }
 }
