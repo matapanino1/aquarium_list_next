@@ -1,6 +1,6 @@
 import React from "react";
 import Location from "./Location";
-import Footer from "./Footer";
+import classes from "./Container.module.css";
 
 const Container = () => {
 
@@ -15,7 +15,7 @@ const Container = () => {
 	];
 
 	return (
-		<div className="container">
+		<div className={classes.container}>
 			<h1>日本全国水族館リスト</h1>
 		{japan.map((list, i) => (
 			<Location
@@ -24,7 +24,6 @@ const Container = () => {
 				prefecture={list["prefecture"]}
 				 />
 		))}
-			<Footer />
 	</div>
   );
 };

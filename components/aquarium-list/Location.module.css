@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+.region {
+    width: 65%;
+}
+
 .regionItem {
     cursor: pointer;
     color: #523329;
