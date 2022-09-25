@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Prefecture from "./Prefecture";
 import classes from "./Location.module.css";
 
-const Location = ({ region, prefecture }) => {
+const Location = ({ region, prefecture, data }) => {
     const [regionState, setRegionState] = useState(false);
 
   return (

@@ -1,8 +1,7 @@
 import React from "react";
 import Location from "./Location";
-import classes from "./Container.module.css";
 
-const Container = () => {
+const Container = ({data}) => {
 
 	const japan = [
 		{ "region": "関東", "prefecture": ["東京", "神奈川", "千葉", "埼玉", "茨城", "栃木", "群馬"] },
@@ -15,7 +14,7 @@ const Container = () => {
 	];
 
 	return (
-		<div className={classes.container}>
+		<div>
 			<h1>日本全国水族館一覧</h1>
 		{japan.map((list, i) => (
 			<Location

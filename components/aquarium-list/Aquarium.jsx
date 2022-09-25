@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './Aquarium.module.css';
 
-const Aquarium = ({ key, aquariumList }) => {
+const Aquarium = ({ aquariumList }) => {
 
   return (
     <div className={classes.aquarium}>
